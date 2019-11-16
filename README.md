@@ -1,5 +1,5 @@
 # UIUC_Token
-The official token/cryptocurrency of The University of Illinois at Urbana-Champaign.
+The official cryptocurrency of The University of Illinois at Urbana-Champaign.
 
 We recommend to mainly use Remix (https://remix.ethereum.org) for testing and debugging. 
 
